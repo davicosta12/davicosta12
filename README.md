@@ -8,7 +8,7 @@
 
 🎒 Main Tools: Visual Studio Code, Microsoft Visual Studio, Gitlab and GitHub;
 
-🙋‍♂️  Contact me: <a href="mailto:davi.costa@ajdesenvolvimento.com.br?subject=subject text">Email</a>
+🙋‍♂️  Contact me: <a href="mailto:davi.costa@ajdesenvolvimento.com.br?subject=subject text">davi.costa@ajdesenvolvimento.com.br</a>
 
 
 <hr />
